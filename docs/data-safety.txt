@@ -1,0 +1,2 @@
+ttygram is just "intermediary" and can't do anything except providing telegram api things. it can not stole your account or something else at all.
+it means you can trust ttygram. it is safe for your data.
