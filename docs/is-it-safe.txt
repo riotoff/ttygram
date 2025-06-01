@@ -1,0 +1,1 @@
+yes, it is safe. ttygram is just "intermediary" and can't do anything except providing telegram api things. it can not stole your account or something else at all.
