@@ -1,0 +1,9 @@
+ttygram
+=======
+Simple telegram client for teletype (tty) on UNIX-like operating systems.
+
+source at src/
+documentation at docs/
+
+
+* this is a remade of lastogram by t.me/luxidev1
