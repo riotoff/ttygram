@@ -1,0 +1,2 @@
+to make ttygram work, you need to open ttygram/src/main.py with any text editor and change 00000 numbers on line 12 to your api id, on line 13 to your api hash and on line 14 to your phone number.
+More about api id and api hash in other documentation files.
