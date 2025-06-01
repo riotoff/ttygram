@@ -1,0 +1,2 @@
+api hash is a basic telegram api address, which looks like bytecode. it is needed for ttygram;
+you can get it at https://my.telegram.org/auth
