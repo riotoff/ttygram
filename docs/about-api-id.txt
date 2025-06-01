@@ -1,0 +1,2 @@
+api id is the basic numeric address for telegram api, it is needed for ttygram;
+you can get it at https://my.telegram.org/auth
