@@ -9,9 +9,9 @@ class Ttygram:
     def __init__(self):
         self.client = None
         self.current_chat = None
-        self.api_id = 00000
-        self.api_hash = '00000'
-        self.phone_number = '00000'
+        self.api_id = 00000 # Change to your api id
+        self.api_hash = '00000' # Change to your api hash
+        self.phone_number = '00000' # Change to your phone number
 
     async def start(self):
         print("Welcome to Ttygram!")
