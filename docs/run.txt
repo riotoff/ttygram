@@ -1,0 +1,5 @@
+to start ttygram, you need to launch venv with next command:
+python3 -m venv .venv && source .venv/bin/activate
+
+then make sure you have all lib requirements installed; and here you go:
+python src/main.py
